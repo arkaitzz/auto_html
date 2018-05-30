@@ -16,3 +16,7 @@ end
 gem "rails", rails 
 gem 'sqlite3', '~> 1.3.3'
 gem 'fakeweb'
+
+gem 'metainspector',
+    :git => 'https://github.com/naveda89/metainspector',
+    :branch => 'refactor/image'
